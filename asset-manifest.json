@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/testing-hah/static/css/main.c4b5ca46.css",
+    "main.js": "/testing-hah/static/js/main.db73b5c3.js",
+    "static/js/453.117b0875.chunk.js": "/testing-hah/static/js/453.117b0875.chunk.js",
+    "static/media/загруженное (28).png": "/testing-hah/static/media/загруженное (28).d072a75c8932a335583a.png",
+    "static/media/загруженное (32).png": "/testing-hah/static/media/загруженное (32).62d7c4196f767a5bc03c.png",
+    "static/media/Фото.png": "/testing-hah/static/media/Фото.a583423467effce722f7.png",
+    "static/media/загруженное (28) (1).png": "/testing-hah/static/media/загруженное (28) (1).9890b37e1a93e1d5eeb4.png",
+    "static/media/загруженное (14).png": "/testing-hah/static/media/загруженное (14).a23b4b0603434986ba62.png",
+    "index.html": "/testing-hah/index.html",
+    "main.c4b5ca46.css.map": "/testing-hah/static/css/main.c4b5ca46.css.map",
+    "main.db73b5c3.js.map": "/testing-hah/static/js/main.db73b5c3.js.map",
+    "453.117b0875.chunk.js.map": "/testing-hah/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4b5ca46.css",
+    "static/js/main.db73b5c3.js"
+  ]
+}
