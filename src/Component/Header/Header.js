@@ -75,8 +75,8 @@ const Header = () => {
                   <span>Заказать</span>
                   <div className="order-icon">
                     <svg width="35" height="35" viewBox="0 0 35 35" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="17.5" cy="17.5" r="17.5" fill="#F58837"/>
-                      <path d="M17.5 12V23M12 18L17.5 23L23 18" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                      <circle className="order-circle" cx="17.5" cy="17.5" r="17.5" fill="#F58837"/>
+                      <path className="order-arrow" d="M17.5 12V23M12 18L17.5 23L23 18" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                     </svg>
                   </div>
                 </button>
